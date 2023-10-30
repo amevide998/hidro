@@ -1,3 +1,0 @@
-/home/vide/Documents/Code/compiler/pixeled/part-1/hidrogen/cmake-build-debug/CMakeFiles/hidro.dir
-/home/vide/Documents/Code/compiler/pixeled/part-1/hidrogen/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vide/Documents/Code/compiler/pixeled/part-1/hidrogen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
